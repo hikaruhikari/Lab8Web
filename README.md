@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (445)" src="https://github.com/user-attachments/assets/ea7f9b9e-8034-44c3-935f-bc2b4c3e06ff" /># Lab8Web
+# Lab8Web
 
 Tugas mengikuti intruksi dari praktikum yang diberikan
 
